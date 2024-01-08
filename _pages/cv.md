@@ -25,12 +25,6 @@ Work experience
   * 2020 – 2021: Postgraduate Fellow, School of Public Health, Yale University
   * 2016 – 2017: Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University
  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Presentations
 ======
@@ -57,3 +51,8 @@ Fellowships and Awards
 * School Excellent Teaching Assistant Award, Peking University, 2018
 * Outstanding Graduate of Shandong Province, Shandong University, 2017
 * National Scholarship, Shandong University, 2014 & 2015
+
+  
+中文介绍
+======
+李硕，主要研究领域为环境经济学、健康经济学、发展经济学。现为香港大学经济及工商管理学院博士后，博士毕业于北京大学国家发展研究院，曾任耶鲁大学访问学者、世界银行短期顾问。研究成果发表于《世界经济》《中国人口·资源与环境》等期刊，担任China Economic Review和《经济学（季刊）》、《世界经济》等期刊审稿人，曾获中国留美经济学会（Chinese Economists Society）最佳学生论文奖（2022）、第六届中国健康经济发展论坛优秀论文奖（2023）。
