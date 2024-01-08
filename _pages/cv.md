@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, Peking University, 2022
+* B.A. in Economics, Shandong University, 2017
+* B.S. in Mathematics (minor), Shandong University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since August 2022: Postdoctoral Fellow, HKU Business School, University of Hong Kong
+  * Supervisor: Professor Guojun He
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Previous academic positions
+  * 2020 – 2021: Short-term Consultant, World Bank
+  * 2020 – 2021: Postgraduate Fellow, School of Public Health, Yale University
+  * 2016 – 2017: Pre-doctoral Fellow, Environmental Research Center, Duke Kunshan University
+ 
 
 Publications
 ======
@@ -42,18 +32,28 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* SUFE Workshop on the Frontiers of Resource and Environmental Economics (2023)
+* Asian Meeting of the Econometric Society (AMES) in China (2022)
+* Chinese Economists Society (CES) Annual Conference (2022)
+* Agricultural & Applied Economics Association (AAEA) China Section (2020)
+* The 6th China Health Economic Development Forum (2023)
+* The 2nd Nanjing University International Symposium on Frontiers of Environmental and Health Economics (2023)
+* The 1st Nanjing University Chinese Economics Frontier Symposium: Economics of Sustainable Development (2022)
+* China Economics Annual Conference (2019@Nankai University; 2021@Shaanxi Normal University)
+* Peking University Energy and Climate Change Economics Workshop (2019, 2021)
   
-Teaching
+Referee Services
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* China Economic Review (4); China Economic Quarterly International
+* Chinese journals: China Economic Quarterly (《经济学（季刊）》) (20+); The Journal of World Economy (《世界经济》)
   
-Service and leadership
+Fellowships and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Excellent Paper Award, The 6th China Health Economic Development Forum, 2023
+* CES Best Student Paper Award, Chinese Economist Society, 2022
+* Excellent Research Award, Peking University, 2019
+* School Excellent Teaching Assistant Award, Peking University, 2018
+* Outstanding Graduate of Shandong Province, Shandong University, 2017
+* National Scholarship, Shandong University, 2014 & 2015
