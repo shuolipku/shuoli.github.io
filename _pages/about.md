@@ -13,5 +13,5 @@ Research Interests
 
 * Environmental risks (climate change, water pollution and air pollution)
 * Environmental policy
-* Public health (environmental health, nutrition)
+* Public health (environmental health and nutrition)
 * Green finance/ESG
