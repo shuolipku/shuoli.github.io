@@ -11,7 +11,7 @@ I am a Post-doctoral Fellow at the University of Hong Kong (HKU). I obtained my 
 
 Research Interests
 
-* Environmental risks (for example, climate change, water pollution and air pollution)
+* Environmental risks (climate change, water pollution and air pollution)
 * Environmental policy
-* Public health (for example, environmental health, nutrition)
+* Public health (environmental health, nutrition)
 * Green finance/ESG
