@@ -17,8 +17,9 @@ Education
 
 Work experience
 ======
-* Since August 2022: Postdoctoral Fellow, HKU Business School, University of Hong Kong
+* Postdoctoral Fellow, HKU Business School, University of Hong Kong
   * Supervisor: Professor Guojun He
+  * Since August 2022
 
 * Previous academic positions
   * 2020 – 2021: Short-term Consultant, World Bank
